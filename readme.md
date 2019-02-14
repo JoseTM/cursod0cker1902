@@ -21,9 +21,7 @@ Sesión 6
 https://docs.google.com/presentation/d/1xNfuALAB9AoF2Yd909XnFu6CTt9CuoEsZN1Q55PJxNo/edit?usp=sharing
 
 
-    docker swarm join --token SWMTKN-1-64em1j0m6z21bdec7d915ahhdrbhw1akg9mu0vokzh58rrwhex-9sg4m75lsqctaxu0smox47v0d 10.211.30.135:2377
-
-
-
+Encuesta
+https://docs.google.com/forms/d/e/1FAIpQLSfy9H3eXZ8Uf4Bv4Dgv06XfMsduJbuSbLqj4bEN72u7Ed5qQQ/viewform?usp=sf_link
 
 
