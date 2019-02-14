@@ -25,3 +25,8 @@ Encuesta
 https://docs.google.com/forms/d/e/1FAIpQLSfy9H3eXZ8Uf4Bv4Dgv06XfMsduJbuSbLqj4bEN72u7Ed5qQQ/viewform?usp=sf_link
 
 
+Enviar ejecicio a pgonyan@ull.edu.es, enlace a un repositorio github con un fichero Dockerfile, docker-compose.yml y readme.md
+antes del 28 de febrero
+
+
+
